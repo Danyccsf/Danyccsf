@@ -1,6 +1,6 @@
 # Hi, I’m Dany Valverde Caldas
 
-Computer Science student at City College of San Francisco and CodeDay Labs intern.
+Electronic Engineer from the National University of San Marcos in Lima, Peru; currently a Computer Science student at City College of San Francisco and a CodeDay Labs intern.
 
 ## Current focus
 
