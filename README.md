@@ -12,7 +12,7 @@ Electronic Engineer from the National University of San Marcos in Lima, Peru; cu
 
 - Excalidraw — Fixed canvas ghosting caused by invalid background-color data ([PR #11458](https://github.com/excalidraw/excalidraw/pull/11458))
 - Dagster — AWS Lambda visual-identity work ([PR #34008](https://github.com/dagster-io/dagster/pull/34008))
-- p5.js — Reported [Issue #9041](https://github.com/processing/p5.js/issues/9041) after reproducing a benchmark-cleanup defect
+- p5.js — Reported a benchmark-cleanup defect and opened [PR #9071](https://github.com/processing/p5.js/pull/9071) to fix it
 
 ## Connect
 
