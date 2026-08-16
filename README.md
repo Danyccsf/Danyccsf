@@ -10,7 +10,7 @@ Electronic Engineer from the National University of San Marcos in Lima, Peru; cu
 
 ## Selected contributions
 
-- Excalidraw — Fixed canvas ghosting caused by invalid background-color data ([PR #11458](https://github.com/excalidraw/excalidraw/pull/11458))(merged).
+- Excalidraw — Fixed canvas ghosting caused by invalid background-color data ([PR #11458](https://github.com/excalidraw/excalidraw/pull/11458))(merged)
 - p5.js — Fixed benchmark cleanup defect ([PR #9071](https://github.com/processing/p5.js/pull/9071)) (merged)
 - Dagster — Adding AWS Lambda visual-identity support in the UI; currently approved by a core maintainer. ([PR #34008](https://github.com/dagster-io/dagster/pull/34008))
 
